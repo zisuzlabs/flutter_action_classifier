@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/a74146cc-4abc-4bb6-86d4-9daa4170b875
 
 **Third scene:** ```0:31 - 0:45```
 
-- Parsing of negative or positive labels from Action Controller (Apple AI training model)
+- Prediction of `negative` or `positive` labels from `Action Controller` (Apple AI training model)
 - Positive label visible upon zooming in
 
 **Additional scene:** ```1:11```
