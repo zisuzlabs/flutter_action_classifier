@@ -34,5 +34,5 @@ https://github.com/user-attachments/assets/a74146cc-4abc-4bb6-86d4-9daa4170b875
 **Final scene:** ```1:16```
 
 - Sample training model demonstrating live AI on a video
-- Labels bowler detection as + or -
+- Labels **Bowler Detection** AI prediction as `positive` or `negative`
 - Projects poses and ball trajectory (not seen)
